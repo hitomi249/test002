@@ -1,0 +1,20 @@
+@charset "UTF-8";
+html {
+    background-color: rgb(28, 0, 129);
+}
+
+main {
+    width: 600px;
+    margin: 0 auto;
+}
+
+article {
+    background-color: #fff;
+    padding: 10px;
+}
+
+.main-text {
+    color: #f63;
+}
+
+    
